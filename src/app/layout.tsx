@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Pinecone - Vercel AI SDK Example",
-  description: "Pinecone - Vercel AI SDK Example",
+  title: "Effective Learning Platform, AI-Powered Chatbot",
+  description: "A platform for effective learning powered by effective prompts and AI.",
 };
 
 import "../global.css";
